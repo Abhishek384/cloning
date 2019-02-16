@@ -1,2 +1,3 @@
 # cloning
-repo clone
+
+a clonine method
